@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+.pytest_cache/
+
+# Raw NASA logs and per-run working files are never committed
+data/*
+!data/.gitkeep
+work/
+
+# macOS
+.DS_Store
+
+# Copies prepared for teammates
+team_handoff/
+
+# Copies received from teammates (their data, environments and databases included)
+navya_handoff/
+saravanan_jatin_handoff/
+notes/
+
+# Pig error logs
+pig_*.log
+aprajita_handoff/
+
+# Benchmark output
+benchmark/results/

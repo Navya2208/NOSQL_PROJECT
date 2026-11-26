@@ -1,0 +1,13 @@
+Hive run: 20261125-173521-hive
+Command: etl verify --run 20261125-173521-hive
+
+Result: every batch is an unchanged slice of its source file.
+
+Batch 1  NASA_access_log_Jul95  lines 1-500,000          SHA-256 match
+Batch 2  NASA_access_log_Jul95  lines 500,001-1,000,000  SHA-256 match
+Batch 3  NASA_access_log_Jul95  lines 1,000,001-1,500,000 SHA-256 match
+Batch 4  NASA_access_log_Jul95  lines 1,500,001-1,891,715 SHA-256 match
+Batch 5  NASA_access_log_Aug95  lines 1-500,000          SHA-256 match
+Batch 6  NASA_access_log_Aug95  lines 500,001-1,000,000  SHA-256 match
+Batch 7  NASA_access_log_Aug95  lines 1,000,001-1,500,000 SHA-256 match
+Batch 8  NASA_access_log_Aug95  lines 1,500,001-1,569,898 SHA-256 match

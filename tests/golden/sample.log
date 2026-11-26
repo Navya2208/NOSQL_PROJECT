@@ -1,0 +1,346 @@
+199.72.81.55 - - [01/Jul/1995:00:00:01 -0400] "GET /history/apollo/ HTTP/1.0" 200 6245
+unicomp6.unicomp.net - - [01/Jul/1995:00:00:06 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+199.120.110.21 - - [01/Jul/1995:00:00:09 -0400] "GET /shuttle/missions/sts-73/mission-sts-73.html HTTP/1.0" 200 4085
+burger.letters.com - - [01/Jul/1995:00:00:11 -0400] "GET /shuttle/countdown/liftoff.html HTTP/1.0" 304 0
+199.120.110.21 - - [01/Jul/1995:00:00:11 -0400] "GET /shuttle/missions/sts-73/sts-73-patch-small.gif HTTP/1.0" 200 4179
+burger.letters.com - - [01/Jul/1995:00:00:12 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+burger.letters.com - - [01/Jul/1995:00:00:12 -0400] "GET /shuttle/countdown/video/livevideo.gif HTTP/1.0" 200 0
+205.212.115.106 - - [01/Jul/1995:00:00:12 -0400] "GET /shuttle/countdown/countdown.html HTTP/1.0" 200 3985
+d104.aa.net - - [01/Jul/1995:00:00:13 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+129.94.144.152 - - [01/Jul/1995:00:00:13 -0400] "GET / HTTP/1.0" 200 7074
+unicomp6.unicomp.net - - [01/Jul/1995:00:00:14 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+unicomp6.unicomp.net - - [01/Jul/1995:00:00:14 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+unicomp6.unicomp.net - - [01/Jul/1995:00:00:14 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+d104.aa.net - - [01/Jul/1995:00:00:15 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+d104.aa.net - - [01/Jul/1995:00:00:15 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+d104.aa.net - - [01/Jul/1995:00:00:15 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+129.94.144.152 - - [01/Jul/1995:00:00:17 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 304 0
+199.120.110.21 - - [01/Jul/1995:00:00:17 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
+ppptky391.asahi-net.or.jp - - [01/Jul/1995:00:00:18 -0400] "GET /facts/about_ksc.html HTTP/1.0" 200 3977
+net-1-141.eden.com - - [01/Jul/1995:00:00:19 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0916.jpg HTTP/1.0" 200 34029
+ppptky391.asahi-net.or.jp - - [01/Jul/1995:00:00:19 -0400] "GET /images/launchpalms-small.gif HTTP/1.0" 200 11473
+205.189.154.54 - - [01/Jul/1995:00:00:24 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+waters-gw.starway.net.au - - [01/Jul/1995:00:00:25 -0400] "GET /shuttle/missions/51-l/mission-51-l.html HTTP/1.0" 200 6723
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:27 -0400] "GET / HTTP/1.0" 200 7074
+205.189.154.54 - - [01/Jul/1995:00:00:29 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+alyssa.prodigy.com - - [01/Jul/1995:00:00:33 -0400] "GET /shuttle/missions/sts-71/sts-71-patch-small.gif HTTP/1.0" 200 12054
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:35 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 200 5866
+dial22.lloyd.com - - [01/Jul/1995:00:00:37 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0613.jpg HTTP/1.0" 200 61716
+smyth-pc.moorecap.com - - [01/Jul/1995:00:00:38 -0400] "GET /history/apollo/apollo-13/images/70HC314.GIF HTTP/1.0" 200 101267
+205.189.154.54 - - [01/Jul/1995:00:00:40 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+ix-orl2-01.ix.netcom.com - - [01/Jul/1995:00:00:41 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3985
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:41 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:41 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+205.189.154.54 - - [01/Jul/1995:00:00:41 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:41 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+ppp-mia-30.shadow.net - - [01/Jul/1995:00:00:43 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+ix-orl2-01.ix.netcom.com - - [01/Jul/1995:00:00:44 -0400] "GET /shuttle/countdown/count.gif HTTP/1.0" 200 40310
+gayle-gaston.tenet.edu - - [01/Jul/1995:00:00:50 -0400] "GET /shuttle/missions/sts-71/mission-sts-71.html HTTP/1.0" 200 12040
+piweba3y.prodigy.com - - [01/Jul/1995:00:00:54 -0400] "GET /shuttle/missions/sts-71/sts-71-patch-small.gif HTTP/1.0" 200 12054
+scheyer.clark.net - - [01/Jul/1995:00:00:58 -0400] "GET /shuttle/missions/sts-71/movies/sts-71-mir-dock-2.mpg HTTP/1.0" 200 49152
+205.189.154.54 - - [01/Jul/1995:00:01:06 -0400] "GET /cgi-bin/imagemap/countdown?99,176 HTTP/1.0" 302 110
+dd15-062.compuserve.com - - [01/Jul/1995:00:01:12 -0400] "GET /news/sci.space.shuttle/archive/sci-space-shuttle-22-apr-1995-40.txt HTTP/1.0" 404 -
+ix-orl2-01.ix.netcom.com - - [01/Jul/1995:00:01:18 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+port26.annex2.nwlink.com - - [01/Jul/1995:00:01:27 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+port26.annex2.nwlink.com - - [01/Jul/1995:00:01:27 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+link097.txdirect.net - - [01/Jul/1995:00:01:31 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+link097.txdirect.net - - [01/Jul/1995:00:01:31 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+onyx.southwind.net - - [01/Jul/1995:00:01:39 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+199.72.81.55 - - [01/Jul/1995:00:01:50 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+gater4.sematech.org - - [01/Jul/1995:00:01:52 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+gater3.sematech.org - - [01/Jul/1995:00:01:52 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+remote27.compusmart.ab.ca - - [01/Jul/1995:00:01:53 -0400] "GET /cgi-bin/imagemap/countdown?102,174 HTTP/1.0" 302 110
+dave.dev1.ihub.com - - [01/Jul/1995:00:01:58 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+netport-27.iu.net - - [01/Jul/1995:00:02:01 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+dynip42.efn.org - - [01/Jul/1995:00:02:14 -0400] "GET /software HTTP/1.0" 302 -
+onyx.southwind.net - - [01/Jul/1995:00:02:27 -0400] "GET /cgi-bin/imagemap/countdown?103,146 HTTP/1.0" 302 96
+ix-or10-06.ix.netcom.com - - [01/Jul/1995:00:02:40 -0400] "GET /software/winvn HTTP/1.0" 302 -
+ix-or10-06.ix.netcom.com - - [01/Jul/1995:00:03:24 -0400] "GET /software HTTP/1.0" 302 -
+129.188.154.200 - - [01/Jul/1995:00:04:05 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+unicomp6.unicomp.net - - [01/Jul/1995:00:04:27 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+news.ti.com - - [01/Jul/1995:00:04:46 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+link097.txdirect.net - - [01/Jul/1995:00:05:06 -0400] "GET /shuttle HTTP/1.0" 302 -
+ix-war-mi1-20.ix.netcom.com - - [01/Jul/1995:00:05:13 -0400] "GET /shuttle/missions/sts-78/news HTTP/1.0" 302 -
+ppp-mia-53.shadow.net - - [01/Jul/1995:00:06:59 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+netport-27.iu.net - - [01/Jul/1995:00:10:19 -0400] "GET /pub/winvn/readme.txt HTTP/1.0" 404 -
+netport-27.iu.net - - [01/Jul/1995:00:10:28 -0400] "GET /pub/winvn/readme.txt HTTP/1.0" 404 -
+blv-pm0-ip28.halcyon.com - - [01/Jul/1995:00:14:17 -0400] "GET /persons/astronauts/i-to-l/lousmaJR.txt HTTP/1.0" 404 -
+pipe6.nyc.pipeline.com - - [01/Jul/1995:00:22:43 -0400] "GET /shuttle/missions/sts-71/movies/sts-71-mir-dock.mpg" 200 946425
+kristina.az.com - - [01/Jul/1995:00:28:12 -0400] "GET /history/apollo/apollo-13/apollo-13-info.html HTTP/1.0" 200 1583
+kristina.az.com - - [01/Jul/1995:00:28:42 -0400] "GET /history/apollo/apollo-13/images/ HTTP/1.0" 200 1851
+kristina.az.com - - [01/Jul/1995:00:28:44 -0400] "GET /icons/blank.xbm HTTP/1.0" 200 509
+kristina.az.com - - [01/Jul/1995:00:28:44 -0400] "GET /icons/image.xbm HTTP/1.0" 200 509
+kristina.az.com - - [01/Jul/1995:00:28:44 -0400] "GET /icons/menu.xbm HTTP/1.0" 200 527
+kristina.az.com - - [01/Jul/1995:00:29:22 -0400] "GET /history/apollo/apollo-13/images/70HC314.GIF HTTP/1.0" 200 101267
+kristina.az.com - - [01/Jul/1995:00:30:31 -0400] "GET /history/apollo/apollo-13/images/70HC323.GIF HTTP/1.0" 200 154223
+kristina.az.com - - [01/Jul/1995:00:31:32 -0400] "GET /history/apollo/apollo-13/images/70HC353.GIF HTTP/1.0" 200 153725
+columbia.acc.brad.ac.uk - - [01/Jul/1995:00:51:31 -0400] "GET /ksc.html" 200 7074
+columbia.acc.brad.ac.uk - - [01/Jul/1995:00:51:33 -0400] "GET /images/ksclogo-medium.gif" 200 5866
+columbia.acc.brad.ac.uk - - [01/Jul/1995:00:51:34 -0400] "GET /images/NASA-logosmall.gif" 200 786
+columbia.acc.brad.ac.uk - - [01/Jul/1995:00:51:35 -0400] "GET /images/MOSAIC-logosmall.gif" 200 363
+columbia.acc.brad.ac.uk - - [01/Jul/1995:00:51:35 -0400] "GET /images/USA-logosmall.gif" 200 234
+asn20.whidbey.net - - [01/Jul/1995:01:49:11 -0400] "GET /shuttle/countdown/countdown.html HTTP/V1.0" 200 3985
+slip-d8.rdrop.com - - [01/Jul/1995:03:46:03 -0400] "GET / HTTP/V1.0" 200 7074
+slip-d8.rdrop.com - - [01/Jul/1995:03:47:31 -0400] "GET /shuttle/missions/sts-71/images/images.html HTTP/V1.0" 200 7634
+slip-d8.rdrop.com - - [01/Jul/1995:03:52:41 -0400] "GET /shuttle/countdown/ HTTP/V1.0" 200 3985
+slip-d8.rdrop.com - - [01/Jul/1995:03:53:22 -0400] "GET /shuttle/countdown/liftoff.html HTTP/V1.0" 200 4538
+204.120.229.63 - - [01/Jul/1995:04:29:05 -0400] "GET /history/history.html                                                 hqpao/hqpao_home.html HTTP/1.0" 200 1502
+nccse.gsfc.nasa.gov - - [01/Jul/1995:07:36:13 -0400] "GET /shuttle/missions/missions.html Shuttle Launches from Kennedy Space Center HTTP/1.0" 200 8677
+ix-nbw-nj1-22.ix.netcom.com - - [01/Jul/1995:10:42:09 -0400] "GET /finger @net.com HTTP/1.0" 404 -
+cml.com - - [01/Jul/1995:13:34:05 -0400] "GET /shuttle/missions/sts-71/movies/crew-arrival-t38.mpg HTTP/1.0" 200 305722
+drjo002a099.embratel.net.br - - [01/Jul/1995:15:49:24 -0400] "GET / HTTP/V1.0" 200 7074
+gpotterpc.llnl.gov - - [01/Jul/1995:22:26:51 -0400] "GET /htbin/wais.pl?orbit sts71 HTTP/1.0" 200 317
+www-b5.proxy.aol.com - - [01/Jul/1995:23:23:03 -0400] "GET /shuttle/resources/orbiters/columbia-logo.gif HTTP/1.0" 200 11417
+pc0135.metrolink.net - - [02/Jul/1995:00:55:38 -0400] "GET /shuttle/missions/sts-71/images/images/eksc-95pc-0423.jpg HTTP/1.0" 403 -
+wxs6-7.worldaccess.nl - - [02/Jul/1995:08:09:27 -0400] "GET / /   HTTP/1.0" 200 7074
+wxs6-7.worldaccess.nl - - [02/Jul/1995:08:11:20 -0400] "GET / /facts/facts.html HTTP/1.0" 200 7074
+imw-204.vps.msu.edu - - [02/Jul/1995:14:36:24 -0400] "GET /shuttle/missions/sts-71/mission-sts-71.html HTTP/1.0" 200 12290
+198.70.174.235 - - [02/Jul/1995:16:22:21 -0400] "GET /software/winvn/winvn.html/winvn.gif HTTP/1.0" 403 -
+198.70.174.235 - - [02/Jul/1995:16:22:21 -0400] "GET /software/winvn/winvn.html/bluemarb.gif HTTP/1.0" 403 -
+198.70.174.235 - - [02/Jul/1995:16:22:29 -0400] "GET /software/winvn/winvn.html/wvsmall.gif HTTP/1.0" 403 -
+pipe3.nyc.pipeline.com - - [02/Jul/1995:22:24:41 -0400] "GET /shuttle/countdown/dy €?shuttle%20tracking HTTP/1.0" 404 -
+pipe3.nyc.pipeline.com - - [02/Jul/1995:22:25:48 -0400] "GET /shuttle/countdown/dy €?tracking%20station HTTP/1.0" 404 -
+ad12-022.compuserve.com - - [03/Jul/1995:00:22:30 -0400] "GET /shuttle/missions/sts-72/news/ HTTP/1.0" 200 374
+163.205.1.45 - - [03/Jul/1995:10:49:40 -0400] "GET /cgi-bin/geturlstats.pl HTTP/1.0" 500 0
+163.205.1.45 - - [03/Jul/1995:10:49:41 -0400] "GET /cgi-bin/geturlstats.pl HTTP/1.0" 500 0
+163.205.1.45 - - [03/Jul/1995:10:49:42 -0400] "GET /cgi-bin/geturlstats.pl HTTP/1.0" 500 0
+163.205.1.45 - - [03/Jul/1995:10:50:02 -0400] "GET /cgi-bin/geturlstats.pl HTTP/1.0" 500 0
+benspc.oss.interact.net - - [03/Jul/1995:11:25:05 -0400] "GET /history/apollo/apollo-13/docs/ HTTP/1.0" 200 377
+163.205.18.20 - - [03/Jul/1995:17:08:38 -0400] "HEAD / HTTP/1.0" 200 0
+cys-cap-1.wyoming.com - - [04/Jul/1995:02:03:47 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+dd02-047.compuserve.com - - [04/Jul/1995:13:53:40 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+dppp17.netpoint.net - - [04/Jul/1995:23:39:36 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+136.205.215.176 - - [05/Jul/1995:11:07:05 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+n1122099.ksc.nasa.gov - - [05/Jul/1995:15:59:02 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+134.57.9.77 - - [05/Jul/1995:16:22:12 -0400] "POST /ksc.html HTTP/1.0" 501 -
+dialup30.azstarnet.com - - [05/Jul/1995:23:35:31 -0400] "GET /shuttle/missions/sts-71/sts-71-patch-small.gif HTTP/1.0" 200 12054
+ccis-i5-dyn-75.baylor.edu - - [06/Jul/1995:10:56:45 -0400] "GET /history/apollo/apollo-14/apollo-14.html HTTP/1.0" 200 2522
+secl_19-mac.pittstate.edu - - [06/Jul/1995:15:39:39 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 3998
+ppp204.modems.uoknor.edu - - [06/Jul/1995:22:03:36 -0400] "GET /htbin/wais.pl?lucid HTTP/1.0" 200 6486
+ip116.chicago.il.interramp.com - - [07/Jul/1995:09:45:22 -0400] "GET /software/winvn/bluemarb.gif HTTP/1.0" 304 0
+128.159.165.144 - - [07/Jul/1995:15:03:06 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+ix-tf1-18.ix.netcom.com - - [07/Jul/1995:16:21:15 -0400] "POST / HTTP/1.0" 501 -
+p12.haifa1.actcom.co.il - - [07/Jul/1995:17:49:26 -0400] "GET /shuttle/resources/orbiters/†b×	 HTTP/1.0" 404 -
+ip053.lax.primenet.com - - [07/Jul/1995:23:53:30 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+161.50.1.102 - - [08/Jul/1995:19:54:16 -0400] "GET /software/winvn/wvsmall.gif HTTP/1.0" 200 13372
+unet6.cmact.com - - [09/Jul/1995:18:04:41 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+info.gte.com - - [10/Jul/1995:10:52:54 -0400] "GET /shuttle/technology/sts-newsref/sts-av.html HTTP/1.0" 200 117170
+klothos.crl.research.digital.com - - [10/Jul/1995:16:45:50 -0400] "" 400 -
+kiwi.arc.nasa.gov - - [10/Jul/1995:17:08:31 -0400] "GET /shuttle/missions/sts-35/sts-35-patch-small.gif HTTP/1.0" 200 13393
+lafayette-pp2.access.sinet.slb.com - - [11/Jul/1995:07:28:35 -0400] "GET /shuttle/resources/orbiters/atlantis-logo.gif HTTP/1.0" 200 4179
+isgate.is - - [11/Jul/1995:14:26:40 -0400] "GET /facts/about_ksc.html HTTP/1.0" 200 3977
+indy.gradient.com - - [11/Jul/1995:21:37:48 -0400] "GET /shuttle/countdown/images/cdtclock.gif HTTP/1.0" 200 34688
+bocagate.bocaraton.ibm.com - - [12/Jul/1995:10:10:10 -0400] "GET /shuttle/countdown/lps/fr.gif HTTP/1.0" 200 30232
+piweba4y.prodigy.com - - [12/Jul/1995:15:25:40 -0400] "GET /shuttle/resources/orbiters/endeavour-logo.gif HTTP/1.0" 200 5052
+pp3.westdat.com - - [12/Jul/1995:22:41:23 -0400] "GET /shuttle/countdown/count70.gif HTTP/1.0" 200 46573
+wolf52.gre.ac.uk - - [13/Jul/1995:07:55:27 -0400] "GET /shuttle/technology/sts-newsref/sts_coord.html HTTP/1.0" 200 49152
+gateway.kraft.com - - [13/Jul/1995:10:23:07 -0400] "GET /htbin/cdt_main.pl HTTP/1.0" 200 3537
+166.35.208.149 - - [13/Jul/1995:14:04:04 -0400] "GET /shuttle/missions/sts-70/movies/sts-70-launch-srbsep.mpg HTTP/1.0" 200 190757
+newcastle03.nbnet.nb.ca - - [13/Jul/1995:16:33:24 -0400] "POST /ksc.html HTTP/1.0" 501 -
+newcastle03.nbnet.nb.ca - - [13/Jul/1995:16:33:40 -0400] "POST /ksc.html HTTP/1.0" 501 -
+www-c5.proxy.aol.com - - [13/Jul/1995:19:37:58 -0400] "GET /shuttle/movies/astronauts.mpg HTTP/1.0" 200 1065779
+202.251.172.60 - - [14/Jul/1995:04:10:23 -0400] "GET /shuttle/missions/sts-65/mission-sts-65.htmlhþ§Š ’žŽ‡||(­ HTTP/1.0" 404 -
+cbrc-a15.mgh.harvard.edu - - [14/Jul/1995:08:23:22 -0400] "GET /shuttle/missions/missions.html HTTP/1.0" 304 0
+128.217.62.45 - - [14/Jul/1995:14:38:32 -0400] "GET /images/construct.gif HTTP/1.0" 200 1414
+piweba4y.prodigy.com - - [14/Jul/1995:22:59:29 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+appeng2.aud.alcatel.com - - [15/Jul/1995:16:42:25 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0893.jpg HTTP/1.0" 304 0
+www-c1.proxy.aol.com - - [16/Jul/1995:11:53:34 -0400] "GET /history/apollo/apollo-12/ HTTP/1.0" 200 1732
+f180-067.net.wisc.edu - - [16/Jul/1995:23:27:09 -0400] "GET /shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0" 200 84905
+n870571.ksc.nasa.gov - - [17/Jul/1995:12:39:07 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+198.30.71.16 - - [17/Jul/1995:19:10:28 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+128.159.146.40 - - [18/Jul/1995:11:15:17 -0400] "GET /cgi-bin/imagemap/countdown70?389,284 HTTP/1.0" 302 68
+130.127.224.23 - - [18/Jul/1995:18:15:51 -0400] "GET /facilities/lc39a.html HTTP/1.0" 200 7008
+163.205.12.75 - - [19/Jul/1995:08:36:42 -0400] "GET /Lî€þîN^NuNV HTTP/1.0" 404 -
+intgate.raleigh.ibm.com - - [19/Jul/1995:09:24:41 -0400] "GET /shuttle/technology/images/srb_mod_compare_3-small.gif HTTP/1.0" 200 55666
+cliffy.lfwc.lockheed.com - - [19/Jul/1995:15:58:32 -0400] "GET /shuttle/missions/51-l/ HTTP/1.0" 200 1712
+mersey.hursley.ibm.com - - [20/Jul/1995:05:03:19 -0400] "GET /ksc.html HTTP/1.0" 200 7071
+firewall.dfw.ibm.com - - [20/Jul/1995:07:34:34 -0400] "1/history/apollo/images/" 400 -
+firewall.dfw.ibm.com - - [20/Jul/1995:07:53:24 -0400] "1/history/apollo/images/" 400 -
+198.77.5.30 - - [20/Jul/1995:14:36:11 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+128.159.122.20 - - [20/Jul/1995:15:28:50 -0400] "kƒûtxƒûtGƒûtÍƒû" 400 -
+202.248.77.10 - - [21/Jul/1995:02:37:21 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 304 0
+siltb10.orl.mmc.com - - [21/Jul/1995:13:39:52 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+ppp414.st.rim.or.jp - - [22/Jul/1995:01:24:23 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 4324
+arthur.intel.com - - [22/Jul/1995:23:22:15 -0400] "GET /shuttle/technology/images/srb_mod_compare_3-small.gif HTTP/1.0" 200 55666
+piweba4y.prodigy.com - - [23/Jul/1995:20:12:26 -0400] "GET /history/apollo/images/footprint-logo.gif HTTP/1.0" 200 4209
+j6.ptl4.jaring.my - - [24/Jul/1995:11:45:44 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+128.159.122.20 - - [24/Jul/1995:13:52:50 -0400] "kƒûtxƒûtGƒûtÍƒû" 400 -
+www-d1.proxy.aol.com - - [24/Jul/1995:18:38:45 -0400] "GET /shuttle/missions/sts-71/images/KSC-95EC-0912.gif HTTP/1.0" 200 48305
+198.133.29.18 - - [25/Jul/1995:11:29:12 -0400] "GET /icons/blank.xbm HTTP/1.0" 200 509
+204.236.28.112 - - [25/Jul/1995:19:07:11 -0400] "GET /history/skylab/skylab-logo.gif HTTP/1.0" 200 3274
+128.174.24.179 - - [26/Jul/1995:12:17:41 -0400] "GET /shuttle/missions/sts-34/mission-sts-34.html HTTP/1.0" 200 5627
+jalisco.engr.ucdavis.edu - - [26/Jul/1995:21:26:41 -0400] "GET /shuttle/missions/sts-71/sts-71-day-06-highlights.html HTTP/1.0" 200 8926
+131.247.46.10 - - [27/Jul/1995:12:17:05 -0400] "GET /shuttle/missions/sts-73/sts-73-patch-small.gif HTTP/1.0" 200 4179
+141.102.47.52 - - [27/Jul/1995:21:27:54 -0400] "GET /ksc.html HTTP/1.0" 200 7280
+alyssa.prodigy.com - - [28/Jul/1995:13:32:06 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+in24.inetnebr.com - - [01/Aug/1995:00:00:01 -0400] "GET /shuttle/missions/sts-68/news/sts-68-mcc-05.txt HTTP/1.0" 200 1839
+uplherc.upl.com - - [01/Aug/1995:00:00:07 -0400] "GET / HTTP/1.0" 304 0
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 304 0
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+uplherc.upl.com - - [01/Aug/1995:00:00:08 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 304 0
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:09 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
+uplherc.upl.com - - [01/Aug/1995:00:00:10 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 304 0
+slppp6.intermind.net - - [01/Aug/1995:00:00:10 -0400] "GET /history/skylab/skylab.html HTTP/1.0" 200 1687
+piweba4y.prodigy.com - - [01/Aug/1995:00:00:10 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+slppp6.intermind.net - - [01/Aug/1995:00:00:11 -0400] "GET /history/skylab/skylab-small.gif HTTP/1.0" 200 9202
+slppp6.intermind.net - - [01/Aug/1995:00:00:12 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:12 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+slppp6.intermind.net - - [01/Aug/1995:00:00:13 -0400] "GET /history/apollo/images/apollo-logo.gif HTTP/1.0" 200 3047
+uplherc.upl.com - - [01/Aug/1995:00:00:14 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+133.43.96.45 - - [01/Aug/1995:00:00:16 -0400] "GET /shuttle/missions/sts-69/mission-sts-69.html HTTP/1.0" 200 10566
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:17 -0400] "GET / HTTP/1.0" 200 7280
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:18 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 200 5866
+d0ucr6.fnal.gov - - [01/Aug/1995:00:00:19 -0400] "GET /history/apollo/apollo-16/apollo-16.html HTTP/1.0" 200 2743
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:19 -0400] "GET /shuttle/resources/orbiters/discovery.html HTTP/1.0" 200 6849
+d0ucr6.fnal.gov - - [01/Aug/1995:00:00:20 -0400] "GET /history/apollo/apollo-16/apollo-16-patch-small.gif HTTP/1.0" 200 14897
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:21 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:21 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:22 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 304 0
+kgtyk4.kj.yamagata-u.ac.jp - - [01/Aug/1995:00:00:22 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 304 0
+133.43.96.45 - - [01/Aug/1995:00:00:22 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+133.43.96.45 - - [01/Aug/1995:00:00:23 -0400] "GET /shuttle/missions/sts-69/sts-69-patch-small.gif HTTP/1.0" 200 8083
+133.43.96.45 - - [01/Aug/1995:00:00:23 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
+www-c8.proxy.aol.com - - [01/Aug/1995:00:00:24 -0400] "GET /shuttle/countdown/ HTTP/1.0" 200 4324
+133.43.96.45 - - [01/Aug/1995:00:00:25 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:25 -0400] "GET /shuttle/resources/orbiters/discovery-logo.gif HTTP/1.0" 200 4179
+piweba4y.prodigy.com - - [01/Aug/1995:00:00:32 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+slppp6.intermind.net - - [01/Aug/1995:00:00:32 -0400] "GET /history/skylab/skylab-1.html HTTP/1.0" 200 1659
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:34 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 200 3635
+in24.inetnebr.com - - [01/Aug/1995:00:00:34 -0400] "GET /shuttle/missions/sts-68/news/sts-68-mcc-06.txt HTTP/1.0" 200 2303
+slppp6.intermind.net - - [01/Aug/1995:00:00:39 -0400] "GET /history/skylab/skylab-logo.gif HTTP/1.0" 200 3274
+ix-esc-ca2-07.ix.netcom.com - - [01/Aug/1995:00:00:39 -0400] "GET /shuttle/resources/orbiters/orbiters-logo.gif HTTP/1.0" 200 1932
+uplherc.upl.com - - [01/Aug/1995:00:00:43 -0400] "GET /shuttle/missions/sts-71/mission-sts-71.html HTTP/1.0" 200 13450
+uplherc.upl.com - - [01/Aug/1995:00:00:44 -0400] "GET /shuttle/missions/sts-71/sts-71-patch-small.gif HTTP/1.0" 200 12054
+uplherc.upl.com - - [01/Aug/1995:00:00:45 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+uplherc.upl.com - - [01/Aug/1995:00:00:45 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+piweba4y.prodigy.com - - [01/Aug/1995:00:00:47 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+www-c3.proxy.aol.com - - [01/Aug/1995:00:00:57 -0400] "GET /cgi-bin/imagemap/countdown70?285,291 HTTP/1.0" 302 85
+www-d3.proxy.aol.com - - [01/Aug/1995:00:01:28 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+www-d3.proxy.aol.com - - [01/Aug/1995:00:01:28 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+piweba4y.prodigy.com - - [01/Aug/1995:00:01:50 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+205.163.36.61 - - [01/Aug/1995:00:02:01 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+205.163.36.61 - - [01/Aug/1995:00:02:01 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+rpgopher.aist.go.jp - - [01/Aug/1995:00:02:02 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+rpgopher.aist.go.jp - - [01/Aug/1995:00:02:04 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+www-d3.proxy.aol.com - - [01/Aug/1995:00:02:04 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+205.163.36.61 - - [01/Aug/1995:00:02:10 -0400] "GET /cgi-bin/imagemap/countdown70?342,281 HTTP/1.0" 302 98
+rpgopher.aist.go.jp - - [01/Aug/1995:00:02:30 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 304 0
+rpgopher.aist.go.jp - - [01/Aug/1995:00:02:45 -0400] "GET /cgi-bin/imagemap/countdown70?181,275 HTTP/1.0" 302 110
+piweba1y.prodigy.com - - [01/Aug/1995:00:02:50 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+piweba4y.prodigy.com - - [01/Aug/1995:00:03:00 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+piweba1y.prodigy.com - - [01/Aug/1995:00:03:41 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 304 0
+gw1.att.com - - [01/Aug/1995:00:03:53 -0400] "GET /shuttle/missions/sts-73/news HTTP/1.0" 302 -
+haraway.ucet.ufl.edu - - [01/Aug/1995:00:04:30 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+piweba3y.prodigy.com - - [01/Aug/1995:00:04:49 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+async59.ts-p-caps.caps.maine.edu - - [01/Aug/1995:00:04:50 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+slip4086.sirius.com - - [01/Aug/1995:00:05:18 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+js002.cc.utsunomiya-u.ac.jp - - [01/Aug/1995:00:07:33 -0400] "GET /shuttle/resources/orbiters/discovery.gif HTTP/1.0" 404 -
+pipe1.nyc.pipeline.com - - [01/Aug/1995:00:12:37 -0400] "GET /history/apollo/apollo-13/apollo-13-patch-small.gif" 200 12859
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:25:39 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 304 0
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:25:55 -0400] "GET /history/apollo/images/footprint-logo.gif HTTP/1.0" 304 0
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:04 -0400] "GET /history/apollo/apollo-12/apollo-12.html HTTP/1.0" 200 2557
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:06 -0400] "GET /history/apollo/apollo-12/apollo-12-patch-small.gif HTTP/1.0" 200 11644
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:19 -0400] "GET /history/apollo/apollo-12/apollo-12-info.html HTTP/1.0" 200 1457
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:24 -0400] "GET /history/apollo/apollo-12/movies/ HTTP/1.0" 200 381
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:25 -0400] "GET /icons/menu.xbm HTTP/1.0" 304 0
+ix-min1-02.ix.netcom.com - - [01/Aug/1995:00:26:26 -0400] "GET /icons/blank.xbm HTTP/1.0" 304 0
+tia1.eskimo.com - - [01/Aug/1995:00:28:41 -0400] "GET /pub/winvn/release.txt HTTP/1.0" 404 -
+columbia.acc.brad.ac.uk - - [01/Aug/1995:00:34:55 -0400] "GET /ksc.html" 200 7280
+columbia.acc.brad.ac.uk - - [01/Aug/1995:00:35:00 -0400] "GET /images/ksclogo-medium.gif" 200 5866
+columbia.acc.brad.ac.uk - - [01/Aug/1995:00:35:01 -0400] "GET /images/NASA-logosmall.gif" 200 786
+columbia.acc.brad.ac.uk - - [01/Aug/1995:00:35:02 -0400] "GET /images/MOSAIC-logosmall.gif" 200 363
+columbia.acc.brad.ac.uk - - [01/Aug/1995:00:35:02 -0400] "GET /images/USA-logosmall.gif" 200 234
+itws.info.eng.niigata-u.ac.jp - - [01/Aug/1995:00:38:01 -0400] "GET /ksc.html/facts/about_ksc.html HTTP/1.0" 403 -
+grimnet23.idirect.com - - [01/Aug/1995:00:50:12 -0400] "GET /www/software/winvn/winvn.html HTTP/1.0" 404 -
+miriworld.its.unimelb.edu.au - - [01/Aug/1995:01:04:54 -0400] "GET /history/history.htm HTTP/1.0" 404 -
+remote50.compusmart.ab.ca - - [01/Aug/1995:02:43:28 -0400] "GET / HTTP/V1.0" 200 7280
+remote50.compusmart.ab.ca - - [01/Aug/1995:02:44:33 -0400] "GET /shuttle/missions/sts-68/ksc-srl-image.html HTTP/V1.0" 200 1404
+138.87.129.23 - - [01/Aug/1995:12:30:34 -0400] "GET /shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0" 200 84905
+198.213.130.253 - - [03/Aug/1995:11:29:02 -0400] "GET /shuttle/missions/sts-34/mission-sts-34.html"><IMG images/ssbuv1.gif SRC="images/small34p.gif/ HTTP/1.0" 404 -
+198.64.198.24 - - [03/Aug/1995:15:37:04 -0400] "GET /shuttle/countdown/liftoff.html HTTP/1.0" 200 4665
+term1-13.sb.west.net - - [03/Aug/1995:22:48:40 -0400] "GET /software/winvn/winvn.html HTTP/V1.0" 200 9866
+www-d1.proxy.aol.com - - [04/Aug/1995:01:02:18 -0400] "GET /ksc.html/shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0" 403 -
+a4/6029.fme.vutbr.cz - - [04/Aug/1995:02:10:17 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+ztm-13.dial.xs4all.nl - - [04/Aug/1995:09:34:52 -0400] "GET / /   HTTP/1.0" 200 7034
+pc32.cis.uoguelph.ca - - [04/Aug/1995:10:57:21 -0400] "GET / /   HTTP/1.0" 200 7034
+ts1_port18.planet.eon.net - - [04/Aug/1995:13:12:48 -0400] "GET /shuttle/missions/sts-69/movies/movies.html HTTP/1.0" 200 1589
+sgate08.st-and.ac.uk - - [04/Aug/1995:17:52:59 -0400] "GET /htbin/wais.pl?Wake Shield HTTP/1.0" 200 6858
+198.174.124.55 - - [04/Aug/1995:18:52:10 -0400] "GET /ksc.html HTTP/V1.0" 200 7034
+198.174.124.55 - - [04/Aug/1995:18:52:39 -0400] "GET /history/history.html HTTP/V1.0" 200 1602
+198.174.124.55 - - [04/Aug/1995:18:52:56 -0400] "GET /history/rocket-history.txt HTTP/V1.0" 200 26990
+wfld-s9.intac.com - - [04/Aug/1995:21:30:28 -0400] "GET /shuttle/missions/sts-69/count69.gif HTTP/1.0" 200 46053
+205.139.35.40 - - [05/Aug/1995:14:03:54 -0400] "GET /ksc.html/shuttle/missions/missions.html HTTP/1.0" 403 -
+205.139.35.40 - - [05/Aug/1995:14:04:08 -0400] "GET /ksc.html/shuttle/technology/sts-newsref/stsref-toc.html HTTP/1.0" 403 -
+userp2.snowhill.com - - [05/Aug/1995:14:57:06 -0400] "GET / " HTTP/1.0" 200 7034
+www-d1.proxy.aol.com - - [05/Aug/1995:17:41:21 -0400] "GET /icons/blank.xbm HTTP/1.0" 200 509
+ppp-nyc-2-64.ios.com - - [05/Aug/1995:20:45:33 -0400] "GET /shuttle/missions/sts-69/images/images.html 40,207 89,234 HTTP/1.0" 200 2443
+kip-2-sn-245.dartmouth.edu - - [06/Aug/1995:14:54:19 -0400] "GET /history/early-astronauts.txt HTTP/1.0" 200 3850
+huyg4.dev.esoc.esa.de - - [07/Aug/1995:07:57:19 -0400] "GET /shuttle/missions/sts-70/mission-sts-70.html HTTP/1.0" 200 20304
+164.86.39.40 - - [07/Aug/1995:15:11:26 -0400] "GET /images/mlp-logo.gif HTTP/1.0" 200 28426
+www-c4.proxy.aol.com - - [08/Aug/1995:03:44:36 -0400] "GET /icons/menu.xbm HTTP/1.0" 304 0
+ix-li1-14.ix.netcom.com - - [08/Aug/1995:14:47:41 -0400] "GET /shuttle/missions/sts-70/mission-sts-70.html HTTP/1.0 " 200 20304
+ad13-006.compuserve.com - - [08/Aug/1995:22:18:52 -0400] "GET /history/apollo/./ HTTP/1.0" 500 99
+ad13-006.compuserve.com - - [08/Aug/1995:22:19:39 -0400] "GET /history/apollo/./ HTTP/1.0" 500 99
+s22.ic.mankato.mn.us - - [08/Aug/1995:22:44:34 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+204.180.196.66 - - [09/Aug/1995:11:33:30 -0400] "GET /history/apollo/images/apollo-logo1.gif HTTP/1.0" 200 1173
+vagrant.vf.mmc.com - - [09/Aug/1995:19:06:20 -0400] "GET /history/apollo/apollo-13/movies/apo13launch.mpg HTTP/1.0" 200 402466
+heavymetal.lmig.com - - [10/Aug/1995:09:19:00 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+128.159.148.35 - - [10/Aug/1995:12:48:59 -0400] "POST /ksc.html HTTP/1.0" 501 -
+128.159.148.35 - - [10/Aug/1995:12:49:17 -0400] "POST /ksc.html HTTP/1.0" 501 -
+128.159.148.35 - - [10/Aug/1995:13:03:29 -0400] "POST /ksc.html HTTP/1.0" 501 -
+199.125.188.19 - - [10/Aug/1995:15:55:07 -0400] "GET /shuttle/missions/sts-75/sts-75-patch-small.gif HTTP/1.0" 200 4179
+haar.met.ed.ac.uk - - [11/Aug/1995:05:02:50 -0400] "GET /htbin/wais.pl?MSX HTTP/1.0" 200 5295
+froggy.moc.kw - - [11/Aug/1995:13:52:33 -0400] "GET /images/ksclogosmall.gif HTTP/1.0" 304 0
+n872545.ksc.nasa.gov - - [11/Aug/1995:14:11:51 -0400] "POST /ksc.html HTTP/1.0" 501 -
+ppp-nyc-1-23.ios.com - - [11/Aug/1995:22:09:17 -0400] "GET /shuttle/missions/51-l/51-l-patch-small.gif HTTP/1.0" 200 10495
+141.102.60.200 - - [12/Aug/1995:17:06:49 -0400] "GET / HTTP/1.0" 200 7131
+199.174.176.49 - - [13/Aug/1995:11:36:15 -0400] "GET /images/launchmedium.gif HTTP/1.0" 304 0
+192.100.81.129 - - [14/Aug/1995:00:36:32 -0400] "GET /images/launch-logo.gif HTTP/1.0" 200 1713
+whyalla.dav.fau.edu - - [14/Aug/1995:13:02:38 -0400] "GET /shuttle/missions/sts-69/movies/ws-animation-onorbit.mpg HTTP/1.0" 200 664733
+128.159.144.83 - - [14/Aug/1995:15:51:37 -0400] "±‰6žÿT7‰FÃÇF" 400 -
+128.159.144.83 - - [14/Aug/1995:15:51:58 -0400] "±‰6žÿT7‰FÃÇF" 400 -
+128.159.144.83 - - [14/Aug/1995:15:52:23 -0400] "±‰6žÿT7‰FÃÇF" 400 -
+128.159.144.83 - - [14/Aug/1995:15:59:35 -0400] "±‰6žÿT7‰FÃÇF" 400 -
+unidata.com - - [14/Aug/1995:21:00:33 -0400] "GET /history/gemini/gemini-1/gemini-1-info.html HTTP/1.0" 200 1343
+dialup35.infobahnos.com - - [15/Aug/1995:11:11:17 -0400] "GET /images/ HTTP/1.0" 200 17688
+128.159.111.209 - - [15/Aug/1995:17:35:51 -0400] "HEAD /images/USA-logosmall.gif HTTP/1.0" 200 0
+163.205.3.104 - - [16/Aug/1995:09:37:18 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+163.205.150.22 - - [16/Aug/1995:16:34:29 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+zang.slip.lm.com - - [17/Aug/1995:07:55:38 -0400] "GET /shuttle/missions/sts-69/mission-sts-69.html HTTP/1.0" 200 11836
+meclavij1.scsa.scsnet.com - - [17/Aug/1995:15:12:21 -0400] "GET /shuttle/missions/sts-69/sts-69-patch-small.gif HTTP/1.0" 200 8083
+plato.nmia.com - - [18/Aug/1995:01:46:09 -0400] "GET /elv/elvhead2.gif HTTP/1.0" 200 1733
+worm.hooked.net - - [18/Aug/1995:11:34:45 -0400] "GET /shuttle/countdown/dy €?status%20report HTTP/1.0" 404 -
+xun9.sr.bham.ac.uk - - [18/Aug/1995:13:31:42 -0400] "GET /history/skylab/skylab-small.gif HTTP/1.0" 200 9202
+139.230.131.141 - - [18/Aug/1995:23:05:13 -0400] "GET /htbin/wais.pl?rogers+commission HTTP/1.0" 200 5385
+sundial.sundial.net - - [19/Aug/1995:19:07:52 -0400] "GET /images/dual-pad.gif HTTP/1.0" 200 141308
+piweba4y.prodigy.com - - [20/Aug/1995:15:38:25 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+bern.actrix.gen.nz - - [21/Aug/1995:08:55:00 -0400] "GET /history/apollo/flight-summary.txt HTTP/1.0" 200 5086
+204.62.245.32 - - [21/Aug/1995:16:19:58 -0400] "GET /shuttle/missions/sts-61a/mission-sts-61a.html HTTP/1.0" 404 -
+pnguyen.wff.nasa.gov - - [22/Aug/1995:07:43:45 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 304 0
+bloor.torfree.net - - [22/Aug/1995:14:55:16 -0400] "huttle/countdown/" 400 -
+abpc286.cle.ab.com - - [22/Aug/1995:15:15:09 -0400] "GET /shuttle/technology/sts-newsref/sts-inst.html HTTP/1.0" 200 83445
+204.80.138.51 - - [23/Aug/1995:02:33:13 -0400] "GET /shuttle/countdown/lps/fr.html HTTP/1.0" 200 1879
+plucky.surgery.ufl.edu - - [23/Aug/1995:13:45:19 -0400] "GET /software/winvn/wvsmall.gif HTTP/1.0" 200 13372
+gwis2.circ.gwu.edu - - [23/Aug/1995:22:38:55 -0400] "GET /images/KSC-logosmall.gif HTTP/1.0" 200 1204
+163.205.23.71 - - [24/Aug/1995:12:45:26 -0400] "HEAD / HTTP/1.0" 200 0
+top1-ts9.databank.net - - [24/Aug/1995:22:26:51 -0400] "GET /software/winvn/bluemarb.gif HTTP/1.0" 304 0
+xetron.com - - [25/Aug/1995:11:58:43 -0400] "GET /persons/nasa-cm/smr.html HTTP/1.0" 200 641
+128.95.198.46 - - [25/Aug/1995:19:57:10 -0400] "GET /images/ksclogo-medium.gif HTTP/1.0" 304 0
+e659229.boeing.com - - [26/Aug/1995:16:35:23 -0400] "GET /icons/text.xbm HTTP/1.0" 200 527
+signy4.stud.unit.no - - [27/Aug/1995:12:26:54 -0400] "GET /history/skylab/skylab.html HTTP/1.0" 200 1687
+olymp.wu-wien.ac.at - - [28/Aug/1995:06:07:49 -0400] "GET /shuttle/countdown/video/livevideo2.gif HTTP/1.0" 200 68593
+disarray.demon.co.uk - - [28/Aug/1995:15:09:40 -0400] "GET /cgi-bin/imagemap/countdown69?178,284 HTTP/1.0" 302 110
+ix-sf3-12.ix.netcom.com - - [29/Aug/1995:02:00:44 -0400] "GET /images/WORLD-logosmall.gif HTTP/1.0" 200 669
+192.220.81.17 - - [29/Aug/1995:12:51:46 -0400] "GET /images/NASA-logosmall.gif HTTP/1.0" 200 786
+192.153.24.36 - - [29/Aug/1995:18:50:45 -0400] "GET /ksc.html HTTP/1.0" 200 7089
+n874364.ksc.nasa.gov - - [30/Aug/1995:08:27:09 -0400] "GET /ksc.html HTTP/1.0" 200 7089
+128.159.117.22 - - [30/Aug/1995:13:45:35 -0400] "ýÑí.Š2í.‹>î .Š2äÑåéâý½ÿÿÃ.Çâ " 400 -
+128.217.62.19 - - [30/Aug/1995:14:01:44 -0400] "GET /images/launchmedium.gif HTTP/1.0" 200 11853
+labpc20.woodbury.edu - - [30/Aug/1995:18:02:45 -0400] "GET /images/./ HTTP/1.0" 500 83
+cust15.max1.san-diego.ca.ms.uu.net - - [30/Aug/1995:19:47:20 -0400] "GET /shuttle/missions/sts-73/news/sts-73-mir-01.txt HTTP/1.0" 200 3744
+titan - - [31/Aug/1995:05:06:15 -0400] "?" 400 -
+asd05-05.dial.xs4all.nl - - [31/Aug/1995:05:17:55 -0400] "GET /shuttle/missions/100th.txt HTTP/1.0" 200 13970
+rm004eaa.brookes.ac.uk - - [31/Aug/1995:11:06:35 -0400] "GET /images/shuttle-patch-logo.gif HTTP/1.0" 200 891
+ztm-130.dial.xs4all.nl - - [31/Aug/1995:15:39:39 -0400] "GET /images/MOSAIC-logosmall.gif HTTP/1.0" 200 363
+tia1.eskimo.com - - [31/Aug/1995:23:56:50 -0400] "GET /images/USA-logosmall.gif HTTP/1.0" 200 234
+alyssa.p

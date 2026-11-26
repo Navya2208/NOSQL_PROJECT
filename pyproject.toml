@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nasa-log-etl"
+version = "0.1.0"
+description = "Multi-pipeline ETL and reporting tool for the NASA HTTP web server logs"
+requires-python = ">=3.10"
+dependencies = [
+    "psycopg[binary]>=3.1",
+    "pymongo>=4.6",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+etl = "etl.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["etl*", "pipelines*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

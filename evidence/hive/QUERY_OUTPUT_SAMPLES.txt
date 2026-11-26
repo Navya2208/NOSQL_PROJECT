@@ -1,0 +1,19 @@
+Hive run: 20261125-173521-hive
+
+Q1 — first whole-run row:
+log_date=1995-07-01, status_code=200, request_count=58033, total_bytes=1617409574
+
+Q2 — whole-run top resources (available sample):
+/images/NASA-logosmall.gif    208723    131725740    81510
+/images/KSC-logosmall.gif     164976    169364272    85161
+/images/MOSAIC-logosmall.gif  127916    (remaining columns not retained in handoff source)
+
+Q3 — first whole-run row:
+log_date=1995-07-01, log_hour=0, error_request_count=24,
+total_request_count=3565, error_rate=0.006732117812061711,
+distinct_error_hosts=12
+
+Output dimensions:
+Q1: 295 rows
+Q2: 20 rows
+Q3: 1,369 rows
