@@ -9,7 +9,7 @@ DAS 839 NoSQL Systems, end-semester project. One tool runs the same ETL and anal
 - **Phase 1** (review on 20 November 2026): done.
 - **Phase 2:** all four pipelines, a compact report, a video and the Git repository link.
 
-The shared tool is built and tested. The MongoDB, MapReduce and Pig pipelines are built and give results identical to the reference, and to each other, on the full data (MongoDB and MapReduce checked 19 November 2026, Pig 23 November 2026). Hive is in progress, and MapReduce is being rewritten in Java to follow rule 7.
+The shared tool is built and tested. All four pipelines (MongoDB, MapReduce, Pig, Hive) are built and give results identical to the reference on the golden sample and the full data (final checks 26 November 2026). Final timings come from Navya's benchmark machine (`benchmark/`).
 
 ## Team
 

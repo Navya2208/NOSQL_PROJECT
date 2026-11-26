@@ -49,30 +49,30 @@ FROM
         log_hour,
 
         CASE
-            WHEN trimmed_request RLIKE '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
+            WHEN trimmed_request RLIKE '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
             THEN regexp_extract(
                 trimmed_request,
-                '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
+                '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
                 1
             )
             ELSE trimmed_request
         END AS http_method,
 
         CASE
-            WHEN trimmed_request RLIKE '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
+            WHEN trimmed_request RLIKE '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
             THEN regexp_extract(
                 trimmed_request,
-                '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
+                '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
                 2
             )
             ELSE ''
         END AS resource_path,
 
         CASE
-            WHEN trimmed_request RLIKE '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
+            WHEN trimmed_request RLIKE '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$'
             THEN regexp_extract(
                 trimmed_request,
-                '^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
+                '(?d)^(\\S+)\\s+(.+?)(?:\\s+(HTTP/\\S+))?$',
                 3
             )
             ELSE ''
@@ -94,7 +94,7 @@ FROM
             month,
             year,
             log_hour,
-            regexp_replace(request, '^[ ]+|[ ]+$', '') AS trimmed_request,
+            regexp_replace(request, '(?d)^[ ]+|[ ]+$', '') AS trimmed_request,
             status_code,
             bytes_text
         FROM
@@ -123,7 +123,7 @@ FROM
 
             FROM
             (
-                SELECT regexp_replace(line, '\\r$', '') AS line
+                SELECT regexp_replace(line, '(?d)\\r$', '') AS line
                 FROM ${hivevar:raw_table}
                 WHERE batch_id = ${hivevar:batch_id}
             ) clean
@@ -148,7 +148,7 @@ FROM
         line RLIKE '(?d)^(\\S+) \\S+ \\S+ \\[((0[1-9]|[12]\\d|3[01])/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/(\\d{4}):([01]\\d|2[0-3]):[0-5]\\d:[0-5]\\d [+-]\\d{4})\\] "(.*)" (\\d{3}) (\\d+|-)$' AS is_valid
     FROM
     (
-        SELECT regexp_replace(line, '\\r$', '') AS line
+        SELECT regexp_replace(line, '(?d)\\r$', '') AS line
         FROM ${hivevar:raw_table}
         WHERE batch_id = ${hivevar:batch_id}
     ) clean

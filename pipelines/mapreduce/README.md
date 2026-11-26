@@ -66,6 +66,17 @@ bash scripts/download_data.sh
 For a quick smoke test instead of the full dataset, use the included sample
 with `--input tests/golden/sample.log` (see step 5).
 
+To regenerate that sample from the downloaded raw files, run this from the
+repository root:
+
+```bash
+python3 pipelines/mapreduce/make_golden_sample.py
+```
+
+The generator selects and copies original byte lines into the test fixture; it
+does not preprocess input for an ETL run. Actual pipeline parsing remains in
+the Java MapReduce job.
+
 ### 4. Configure Hadoop in each new terminal
 
 You need a Java JDK (including `javac`) and Hadoop 3.x installed. Set

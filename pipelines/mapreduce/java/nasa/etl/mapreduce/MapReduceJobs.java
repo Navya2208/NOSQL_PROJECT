@@ -130,7 +130,7 @@ public final class MapReduceJobs {
             String month = lineMatch.group(4);
             String year = lineMatch.group(5);
             String hour = lineMatch.group(6);
-            String request = lineMatch.group(7).replaceAll("^ +| +$", "");
+            String request = lineMatch.group(7).replaceAll("(?d)^ +| +$", "");
             String status = lineMatch.group(8);
             String bytes = lineMatch.group(9);
 
@@ -347,6 +347,7 @@ public final class MapReduceJobs {
     public static void main(String[] args) throws Exception {
         if (args.length == 0) throw new IllegalArgumentException("Expected parse, q1, q2-aggregate, q2-top20, q3, or counters");
         Configuration conf = new Configuration();
+        conf.set("textinputformat.record.delimiter", "\n");
         String action = args[0];
         if (args.length != 3) throw new IllegalArgumentException("Expected action, input and output paths");
         String input = args[1];

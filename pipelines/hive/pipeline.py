@@ -6,7 +6,6 @@ import os
 import pty
 import shutil
 import subprocess
-import tempfile
 from pathlib import Path
 
 from etl import config
@@ -211,6 +210,11 @@ class HivePipeline(Pipeline):
 
         script_sql = script_path.read_text(encoding="utf-8")
 
+        script_sql = (
+            "SET textinputformat.record.delimiter=\n;\n"
+            + script_sql
+        )
+
         if add_serde:
             script_sql = (
                 f"ADD JAR {SERDE_JAR};\n"
@@ -220,6 +224,7 @@ class HivePipeline(Pipeline):
         command.extend(["-e", script_sql])
 
         return self._run_beeline(command, label)
+
     def _hdfs(
         self,
         args: list[str],
@@ -365,7 +370,10 @@ class HivePipeline(Pipeline):
         )
         ROW FORMAT SERDE 'nasa.etl.Latin1LineSerDe'
         STORED AS TEXTFILE
-        LOCATION '{raw_location}';
+        LOCATION '{raw_location}'
+        TBLPROPERTIES (
+            'textinputformat.record.delimiter' = '\n'
+        );
 
         CREATE EXTERNAL TABLE {self.parsed_table} (
             host STRING,
@@ -488,10 +496,6 @@ class HivePipeline(Pipeline):
     # Read query output
     # --------------------------------------------------
 
-        # --------------------------------------------------
-    # Read query output
-    # --------------------------------------------------
-
     def _read_hdfs_tsv(
         self,
         directory: str,
@@ -508,6 +512,7 @@ class HivePipeline(Pipeline):
                 rows.append(tuple(line.split("\t")))
 
         return rows
+
     # --------------------------------------------------
     # Run Q1, Q2 and Q3
     # --------------------------------------------------
