@@ -1,0 +1,4 @@
+pipeline,batch_size,repeat,run_id,status,runtime_seconds,total_records,parsed_records,malformed_records,batch_count,avg_batch_size,vs_reference,vs_mongodb,verify,error
+reference,500000,1,20261127-183150-reference,succeeded,14.870143041014671,3461613,3461612,1,8,432701.625,,,,
+mongodb,500000,1,20261127-183205-mongodb,succeeded,67.11905033327639,3461613,3461612,1,8,432701.625,IDENTICAL,,all batches match,
+hive,500000,1,20261127-183313-hive,succeeded,383.15433958312497,3461613,3461612,1,8,432701.625,IDENTICAL,IDENTICAL,all batches match,

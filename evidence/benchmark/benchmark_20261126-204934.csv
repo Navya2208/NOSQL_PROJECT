@@ -1,0 +1,8 @@
+pipeline,batch_size,repeat,run_id,status,runtime_seconds,total_records,parsed_records,malformed_records,batch_count,avg_batch_size,vs_reference,vs_mongodb,verify,error
+reference,500000,1,20261126-204934-reference,succeeded,14.999594707973301,3461613,3461612,1,8,432701.625,,,,
+mongodb,500000,1,20261126-204950-mongodb,succeeded,75.87385237496346,3461613,3461612,1,8,432701.625,IDENTICAL,,all batches match,
+mongodb,500000,2,20261126-205107-mongodb,succeeded,69.36313149984926,3461613,3461612,1,8,432701.625,IDENTICAL,,all batches match,
+mongodb,500000,3,20261126-205217-mongodb,succeeded,116.49207145767286,3461613,3461612,1,8,432701.625,IDENTICAL,,all batches match,
+pig,500000,1,20261126-205415-pig,succeeded,174.21889299992472,3461613,3461612,1,8,432701.625,IDENTICAL,IDENTICAL,all batches match,
+pig,500000,2,20261126-205710-pig,succeeded,163.70857841707766,3461613,3461612,1,8,432701.625,IDENTICAL,IDENTICAL,all batches match,
+pig,500000,3,20261126-205954-pig,succeeded,148.69456404214725,3461613,3461612,1,8,432701.625,IDENTICAL,IDENTICAL,all batches match,
