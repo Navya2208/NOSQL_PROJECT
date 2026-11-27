@@ -139,6 +139,17 @@ caffeinate -i .venv/bin/python benchmark/run_benchmark.py --pipelines mongodb hi
 | MongoDB | 82.1 (67.1–116.5) | 7 | IDENTICAL | — |
 | MapReduce | 125.4 (122.2–125.9) | 3 | IDENTICAL | IDENTICAL |
 | Pig | 163.7 (148.7–174.2) | 3 | IDENTICAL | IDENTICAL |
-| Hive | 383.2 | 1 | IDENTICAL | IDENTICAL |
+| Hive | 568.6 (383.2–593.0) | 3 | IDENTICAL | IDENTICAL |
 
 `etl verify` matched every batch of every run.
+
+### Batch size 100,000 (35 batches, one run each)
+
+| Pipeline | Runtime, s | At 500,000 (median), s | vs reference | vs MongoDB |
+|---|---|---|---|---|
+| MongoDB | 74.2 | 82.1 | IDENTICAL | — |
+| MapReduce | 421.9 | 125.4 | IDENTICAL | IDENTICAL |
+| Pig | 347.5 | 163.7 | IDENTICAL | IDENTICAL |
+| Hive | 1,319.4 | 568.6 | IDENTICAL | IDENTICAL |
+
+Smaller batches barely change MongoDB, whose cost is per record, but slow the Hadoop-based engines 2–3.4×, because each batch starts fresh jobs (JVM start-up, job setup) for parsing and for Q1–Q3.

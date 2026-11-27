@@ -27,3 +27,6 @@ aprajita_handoff/
 
 # Benchmark output
 benchmark/results/
+
+# Hive metastore log (written where HiveServer2 is started)
+derby.log
